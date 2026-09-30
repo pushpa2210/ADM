@@ -58,3 +58,7 @@ Lesson
 Hindsight Memory
    ↓
 Future Decision
+
+# ADM_Workflow
+
+![ADM_Workflow](ADM_Workflow.jpeg)

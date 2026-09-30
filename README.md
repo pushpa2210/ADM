@@ -59,6 +59,8 @@ Hindsight Memory
    ↓
 Future Decision
 
-# ADM_Workflow
+<h2>ADM Workflow</h2>
 
-![ADM_Workflow](ADM_Workflow.jpeg)
+<p align="center">
+  <img src="ADM_Workflow.jpeg" alt="ADM Workflow" width="900">
+</p>

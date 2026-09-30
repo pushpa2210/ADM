@@ -58,8 +58,9 @@ Lesson
 Hindsight Memory
    ↓
 Future Decision
+```
 
-<h2>ADM Workflow</h2>
+## ADM Workflow
 
 <p align="center">
   <img src="ADM_Workflow.jpeg" alt="ADM Workflow" width="900">
